@@ -25,4 +25,4 @@ Studying Python, JavaScript, HTML/CSS these days:yellow_heart:
 
 
 
-![Yeonju's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+![KiteB's github stats](https://github-readme-stats.vercel.app/api?username=KiteB&show_icons=true)
