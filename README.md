@@ -13,7 +13,8 @@
 - ⚡ Fun fact: ...
 -->
 
-This is Yeonju :smile:
+This is Yeonju:simple_smile:
+
 I'm majoring in IoT at Soonchunhyang university.
 
 Studying Python, JavaScript, HTML/CSS these days:yellow_heart:
