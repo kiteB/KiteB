@@ -17,7 +17,7 @@ This is Yeonju :smile:
 
 I'm majoring in IoT at Soonchunhyang university.
 
-Studying Python, Django these days:yellow_heart:
+Studying Spring, Python, Django these days:yellow_heart:
 
 Likelion 9th Member at SCH🦁
 
@@ -29,4 +29,5 @@ Likelion 9th Member at SCH🦁
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
 </p>
