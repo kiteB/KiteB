@@ -15,7 +15,8 @@
 
 - **Backend Developer**
 - Likelion 9th Member at SCH 🦁
-- Depromeet 10th Member 
+- Depromeet 10th Member
+- SSAFY 8th - Coding Track(Java)
 <br>
 
 ### 🛠️ Tech Stack
